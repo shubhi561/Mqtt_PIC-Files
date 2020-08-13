@@ -22,8 +22,8 @@
 /*
 *------------------------------------------------------------------------------
 * File				: com_protocol1.c
-* Created by		: Sam
-* Last changed by	: Sam
+* Created by		: Shubham Trivedi
+* Last changed by	: Shubham Trivedi
 * Last changed		: 13/05/2020
 *------------------------------------------------------------------------------
 * Revision 1.1 13/05/2020 Sam
