@@ -22,12 +22,12 @@
 /*
 *------------------------------------------------------------------------------
 * File				: gsm_interface.c
-* Created by		: Sam
-* Last changed by	: Sam
+* Created by		: Shubham Trivedi
+* Last changed by	: Shubham Trivedi
 * Last changed		: 20/05/2020
 *------------------------------------------------------------------------------
 *
-* Revision 1.0 07/10/2013 Sam
+* Revision 1.0 07/10/2013 
 * Initial revision
 *
 *------------------------------------------------------------------------------
