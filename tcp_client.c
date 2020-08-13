@@ -22,8 +22,8 @@
 /*
 *------------------------------------------------------------------------------
 * File				: tcp_client.c
-* Created by		: Sam
-* Last changed by	: Sam
+* Created by		: Shubham Trivedi
+* Last changed by	: Shubham Trivedi
 * Last changed		: 06/11/2016
 *------------------------------------------------------------------------------
 *
