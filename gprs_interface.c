@@ -23,8 +23,8 @@
 /*
 *------------------------------------------------------------------------------
 * File				: tcp_interface.c
-* Created by		: Sam
-* Last changed by	: Sam
+* Created by		: Shubham Trivedi
+* Last changed by	: Shubham Trivedi
 * Last changed		: 01/11/2014
 *------------------------------------------------------------------------------
 *
@@ -630,7 +630,7 @@ INT8 GPRS_SendData(const UINT8 *message_str, UINT16 mesg_size)
         resp = SendATCmdWaitResp(tempGsmBuff, 3000, 200,(const rom INT8*)">", 5);
         if(AT_RESP_OK == resp)
         {
-            /* Wrap return “>” after set command. goto data send pass.*/
+            /* Wrap return Â“>Â” after set command. goto data send pass.*/
             pass = 1;
         }
         else
