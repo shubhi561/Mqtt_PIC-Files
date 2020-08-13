@@ -22,14 +22,12 @@
 /*
 *------------------------------------------------------------------------------
 * File				: mqtt_interface.c
-* Created by		: Nithin K. Kurian, Dhanish Vijayan, Elementz Engineers Guild Pvt. Ltd, July 2, 2016. and http://www.electronicwings.com
-* Last changed by	: Sam
+* Created by		:Shubham Trivedi
+* Last changed by	: Shubham Trivedi
 * Last changed		: 20/05/2020
 *------------------------------------------------------------------------------
 *
-* Revision 1.0 20/05/2020 Sam
-* Initial revision -ported from ardunio lib by Nithin K. Kurian, Dhanish Vijayan, Elementz Engineers Guild Pvt. Ltd, July 2, 2016.
-* and  http://www.electronicwings.com
+*
 *
 *------------------------------------------------------------------------------
 */
